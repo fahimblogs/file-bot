@@ -39,14 +39,14 @@ from aiogram.client.default import DefaultBotProperties
 #  CONFIGURATION
 # ═══════════════════════════════════════════════════════════════
 
-BOT_TOKEN = "your_bot_token"
-FILE_CHANNEL = -1003358175087
-BACKUP_CHANNEL = -1003358175087
-ADMIN_IDS = [6801360422, 1956820398]
-BOT_USERNAME = "filesbrobot"
+BOT_TOKEN = "8609897017:AAGtiQIHGFeo7mH34zmSJuJu98EMWkq6QaM"
+FILE_CHANNEL = -1003859240003
+BACKUP_CHANNEL = -1003859240003
+ADMIN_IDS = [5520625960, 5520625960]
+BOT_USERNAME = "filesbyfahimbot"
 DB_FILE = Path(__file__).parent / "database.json"
-SUPPORT_CHANNEL = "https://t.me/JubairSensei"
-ADMIN_CONTACT = "@JubairZ"
+SUPPORT_CHANNEL = "https://thttps://t.me/filesharebyfahim"
+ADMIN_CONTACT = "@fahim582"
 DEFAULT_AUTO_DELETE = 20  # minutes
 
 logging.basicConfig(format="%(asctime)s [%(levelname)s] %(message)s", level=logging.INFO)
